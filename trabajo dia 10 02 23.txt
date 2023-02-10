@@ -1,0 +1,61 @@
+<?php 
+/* tipo de variables */
+$string = "texto";
+$int = 1;
+$suma=1+2;
+echo $suma;
+
+
+$a=1;
+$b=2;
+if ($a>$b) {
+ $resultado="es mayor";
+}
+else{
+  $resultado="es mayor";
+}
+elseif($a=$b){
+  $resultado="es igual";
+  
+}
+
+while (1<=10){
+  $a++;
+  if ($a=4){
+    $texto="gano";
+  }
+}
+//variables
+$n=2;
+$n=4;
+$n=5;
+$n=1;
+$n=2;
+$n=3;
+$n=1;
+$n=1;
+$n=4;
+$n=5;
+$n=3;
+$n=5;
+$n=2;
+$n=1;
+$n=4;
+while ($n=1){
+$nota="perdío"
+  if ($n=2){
+    $nota="perdío"
+    elseif ($n=3){
+      $nota="paso raspado"
+      elseif ($n=4){
+        $nota="pasó bien"
+        else ($n=5){
+          $nota="EXCELENTE"
+        }
+         
+        }
+      }
+    }
+  }
+}
+?>
